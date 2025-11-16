@@ -1,8 +1,8 @@
 # C.shop - My C Language Learning Journey
 
-![](https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif)
+![]([https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y5bjVhMW1rdng2OHplMnE3eGo3ZzlocnEydHBtM2JseDR4YmttcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vIFoKU8s4m4CBqCao/giphy.gif))
 
-> "Ah shit, here we go again..." - CJ, every time I open a C compiler
+> "Ah shit, here we go again..." - CJ,
 
 ## 🎮 About This Repo
 
