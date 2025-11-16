@@ -1,6 +1,5 @@
 # C.shop - My C Language Learning Journey
 
-<<<<<<< HEAD
 ![Ah shit, here we go again](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y5bjVhMW1rdng2OHplMnE3eGo3ZzlocnEydHBtM2JseDR4YmttcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vIFoKU8s4m4CBqCao/giphy.gif)
 
 > "Ah shit, here we go again..." - CJ,
