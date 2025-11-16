@@ -4,7 +4,7 @@
 
 > "Ah shit, here we go again..." - CJ,
 
-## 🎮 About This Repo
+## About This Repo
 
 After years of high-level languages holding my hand, and some didling with C. I've decided to  Actually venture into the dangerous streets of C programming. Memory management? Manual allocation? **Segmentation faults?** 
 
